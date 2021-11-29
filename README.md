@@ -13,6 +13,7 @@ Construí esse game baseado no curso da <i>Scrimba</i> ministrado pelo Per Borge
   <li>Arrays</li>
   <li>Loops</li>
   <li>if/else and logical operators</li>
+  <li>Return statements</li>
   <li>DOM</li>
 </ul>
 
