@@ -17,7 +17,4 @@ Construí esse game baseado no curso da <i>Scrimba</i> ministrado pelo Per Borge
   <li>DOM</li>
 </ul>
 
-Fique a vontade para testar o game aqui -->
-  
-
-
+Fique a vontade para testar o game aqui --> https://xaldrikx.github.io/Blackjack-Game/
